@@ -1,7 +1,7 @@
-# Collision Insights: Data-Driven Analysis of Motor Vehicle Accidents  
+# CrashStat: Motor Vehicle Collision Analysis  
 
 ## Project Overview  
-This project analyzes motor vehicle collision data to uncover trends and hotspots, providing actionable insights for improved traffic safety. Developed as part of the **Data Architecture for Business Intelligence** course, the project demonstrates the design of a robust data pipeline and the use of advanced visualization tools to enhance decision-making for traffic management and accident prevention.  
+This project analyzes motor vehicle collision data to uncover trends and hotspots, providing actionable insights for improved traffic safety. The project demonstrates the design of a robust data pipeline and the use of advanced visualization tools to enhance decision-making for traffic management and accident prevention.  
 
 ---
 
