@@ -58,13 +58,13 @@ This project analyzes motor vehicle collision data to uncover trends and hotspot
 
 ### 1. Accident Trends Over Time
 
-https://github.com/user-attachments/assets/9f011d3f-e3e0-45d5-89eb-a4dc0bc273b7
+![image](https://github.com/user-attachments/assets/9f011d3f-e3e0-45d5-89eb-a4dc0bc273b7)
 
 **Explanation**: This dashboard visualizes the number of collisions over time, highlighting peak periods and seasonal trends. It provides insights into accident-prone months and time slots.
 
 ### 2. High-Risk Areas
 
-https://github.com/user-attachments/assets/bf9681c3-5e81-49d8-90b3-cff7767027ad
+![image](https://github.com/user-attachments/assets/bf9681c3-5e81-49d8-90b3-cff7767027ad)
 
 **Explanation**: Displays a heatmap of collision hotspots, pinpointing urban zones with the highest accident frequency. This visualization is critical for traffic management and safety planning.
 
@@ -76,7 +76,7 @@ https://github.com/user-attachments/assets/bf9681c3-5e81-49d8-90b3-cff7767027ad
 
 ### 4. Peak Accident Times
 
-https://github.com/user-attachments/assets/9d8647a4-b847-4c1f-a2e1-13d53a9b909e
+![image](https://github.com/user-attachments/assets/9d8647a4-b847-4c1f-a2e1-13d53a9b909e)
 
 **Explanation**: Shows hourly and daily distributions of accidents, helping stakeholders understand when collisions are most likely to occur.
 
