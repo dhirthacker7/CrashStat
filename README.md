@@ -70,7 +70,7 @@ https://github.com/user-attachments/assets/bf9681c3-5e81-49d8-90b3-cff7767027ad
 
 ### 3. Causes of Accidents
 
-https://github.com/user-attachments/assets/bc404519-4e70-48df-9195-db5610c16388
+![image](https://github.com/user-attachments/assets/bc404519-4e70-48df-9195-db5610c16388)
 
 **Explanation**: A breakdown of causative factors, such as weather conditions, road type, and driver behavior. It identifies key contributors to accidents for targeted interventions.
 
