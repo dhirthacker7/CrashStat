@@ -14,7 +14,7 @@ This project analyzes motor vehicle collision data to uncover trends and hotspot
     - Ingested raw collision data from open datasets using ETL pipelines.
     - Stored the processed data in a structured format using **AWS S3** and **Snowflake**.
 - **Data Transformation**:
-    - Cleaned and transformed data using **Apache Spark** and **Python** for enhanced quality and consistency.
+    - Cleaned and transformed data using Talend Studio and **Python** for enhanced quality and consistency.
     - Designed a star schema in **Snowflake** to optimize query performance.
 - **Visualization**:
     - Created dynamic dashboards using **Power BI** to visualize accident trends, hotspots, and patterns.
