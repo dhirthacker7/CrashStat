@@ -95,9 +95,3 @@ This project analyzes motor vehicle collision data to uncover trends and hotspot
 3. Follow the notebook or scripts provided for data ingestion, transformation, and visualization.
 
 ---
-
-## Future Enhancements
-
-- Automate real-time data ingestion for up-to-date analysis.
-- Incorporate machine learning models for predictive analytics on collision trends.
-- Expand the scope to include pedestrian and cyclist collision data.
